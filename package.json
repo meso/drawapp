@@ -3,7 +3,7 @@
   "name": "drawapp",
   "version": "0.0.0-8",
   "repository": {
-    "url": ""
+    "url": "https://github.com/meso/drawapp"
   },
   "main": "app.js",
   "engines": {
