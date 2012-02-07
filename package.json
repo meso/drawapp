@@ -1,0 +1,21 @@
+{
+  "author": "Toshihiro Shimizu",
+  "name": "drawapp",
+  "version": "0.0.0-8",
+  "repository": {
+    "url": ""
+  },
+  "main": "app.js",
+  "engines": {
+    "node": "~v0.4.12"
+  },
+  "dependencies": {
+    "socket.io": ">0.8",
+    "connect": "1.8.x"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "app.js"
+  },
+  "subdomain": "drawapp"
+}
